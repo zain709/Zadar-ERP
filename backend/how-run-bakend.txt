@@ -1,0 +1,9 @@
+// first
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+
+
+// add the script in the package.json
+"server":"nodemon server.js"
+
+//open package.json and add the 
+"type": "module" after "main":"server.js"
